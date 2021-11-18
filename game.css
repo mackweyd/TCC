@@ -1,0 +1,11 @@
+img{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:35%;
+    height:35%;
+    padding: 15px;
+}
+
+button{
+    font-size: large;
+}
